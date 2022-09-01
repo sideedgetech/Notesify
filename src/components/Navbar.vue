@@ -38,7 +38,7 @@
         </v-btn>
         <v-dialog v-model="dialog" width="350">
           <v-card>
-            <h3 class="pa-6 pb-2">Notesify v1.0.0</h3>
+            <h3 class="pa-6 pb-2">Notesify</h3>
 
             <p class="px-6">An offline-capable Note taking app made with VueJS.</p>
             <h4 class="px-6 pb-2">🚀 Features</h4>
