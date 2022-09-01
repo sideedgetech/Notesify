@@ -1,4 +1,4 @@
-## 📒 An offline capable Notes taking web-app built using VueJS
+## 📒 An offline capable Notes taking web-app built using React and VueJS
 
 ### ✨ Features
 
@@ -9,12 +9,6 @@
 :zap: **Easy to use**: Simple and intuitive design thats easy to use
 
 :rocket: **Performance**: Keeper is built using Vuejs, HTML5, and CSS3 which makes it lightning-fast and gives a great performance.
-
----
-
-## 🖥️ Demo
-
-[https://keeper.sumit.codes](https://keeper.sumit.codes)
 
 ---
 
@@ -29,12 +23,12 @@
 
 ## ✍️ Authors
 
-- [**Sumit Kolhe**](https://github.com/sumitkolhe) - _Author_
+- [**Side Edge**](https://github.com/sideedgetech) - _Author_
 
 ---
 
 ## 📜 License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the [MIT License](https://github.com/sideedgetech/Notesify/blob/main/LICENSE) - see the [LICENSE](LICENSE) file for details.
 
 ---
