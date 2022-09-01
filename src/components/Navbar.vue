@@ -1,7 +1,7 @@
 <template>
   <nav>
     <v-app-bar app tile color="navbarColor" :height="height">
-      <h1 style="letter-spacing:5px;" class="px-1">Keeper</h1>
+      <h1 style="letter-spacing:5px;" class="px-1">Notesify</h1>
       <v-spacer></v-spacer>
 
       <!--theme-->
@@ -38,7 +38,7 @@
         </v-btn>
         <v-dialog v-model="dialog" width="350">
           <v-card>
-            <h3 class="pa-6 pb-2">Keeper v1.0.0</h3>
+            <h3 class="pa-6 pb-2">Notesify v1.0.0</h3>
 
             <p class="px-6">An offline-capable Note taking app made with VueJS.</p>
             <h4 class="px-6 pb-2">🚀 Features</h4>
@@ -53,7 +53,7 @@
                 <a
                   style="text-decoration:none;"
                   target="_blank"
-                  href="https://github.com/sumitkolhe/keeper"
+                  href="https://github.com/sideedgetech/Notesify"
                 >open-source!</a>
               </li>
             </ul>
