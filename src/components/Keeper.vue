@@ -86,7 +86,7 @@ export default {
       const blob = new Blob([this.store], { type: "text/plain" });
       const e = document.createEvent("MouseEvents"),
         a = document.createElement("a");
-      a.download = "notes.txt";
+      a.download = "Notesify.txt";
       a.href = window.URL.createObjectURL(blob);
       a.dataset.downloadurl = ["text/plain", a.download, a.href].join(":");
       e.initEvent(
